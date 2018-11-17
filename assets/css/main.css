@@ -1574,9 +1574,12 @@
 		/* Header */
 
 			#header {
+margin-top: 70px;
+
+			}
+			#nav{
 				display: none;
 			}
-
 			#banner {
 				position: relative;
 				color: #fff;
@@ -1590,6 +1593,7 @@
 				}
 
 				#banner p {
+
 					font-size: 1.25em;
 					font-weight: 200;
 					line-height: 1.25em;
